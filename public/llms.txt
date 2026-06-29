@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-e7cf6811.zappy5.app
+https://example.com
 ברוכים הבאים לגיא תשמישי קדושה באילת, חנות הבית שלכם לתשמישי קדושה איכותיים. אנו מציעים מגוון מרהיב של טליתות, תפילין, מזוזות כשרות, ספרי קודש ועוד, תוך הקפדה על כשרות והידור מצווה. גלו אווירה משפחתית חמה וייעוץ אישי בלב אילת.
 
 ### קולקציות
-https://-e7cf6811.zappy5.app/collections
+https://example.com/collections
 צללו לקולקציות המיוחדות שלנו והוסיפו נגיעה של קדושה לחיים. מפריטי שבת ויום טוב מהודרים ועד קמעות מגן מעוצבים, כל פריט מספר סיפור של מסורת ואהבה. בקרו אותנו באילת וגלו איך להדר כל מצווה באיכות שאין שני לה.
 
 ### אודות
-https://-e7cf6811.zappy5.app/about
+https://example.com/about
 מאחורי גיא תשמישי קדושה עומד סיפור של שליחות, קהילה ומסורת בת 13 שנה. ממוקמים מול הרבנות הראשית באילת, אנו מחויבים לשירות אישי, יושרה וייעוץ מקצועי לכל לקוח. בואו להכיר מקום שבו קדושה פוגשת חיוך חם ומשפחתי.
 
 ### צור קשר
-https://-e7cf6811.zappy5.app/contact
+https://example.com/contact
 מחפשים מזוזה כשרה, בדיקת תפילין או סתם עצה חמה? צרו קשר עם גיא תשמישי קדושה באילת. אנחנו כאן בשבילכם, ממוקמים במרכז העיר מול הרבנות הראשית, ומזמינים אתכם לשיחת ייעוץ אישית, ביקור בחנות או כל שאלה. הקדושה מחכה.
 
 ### תודה שפניתם | גיא תשמישי קדושה
-https://-e7cf6811.zappy5.app/thank-you
+https://example.com/thank-you
 גיא תשמישי קדושה - תודה שפניתם | גיא תשמישי קדושה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e7cf6811.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e7cf6811.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e7cf6811.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-e7cf6811.zappy5.app/contact
-- Endpoint: https://-e7cf6811.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Judaica & Religious Articles Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e7cf6811.zappy5.app/sitemap.xml
-- Robots: https://-e7cf6811.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e7cf6811.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
